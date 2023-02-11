@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Istok Web", sans-serif;
+}
+
+body {
+ 
+  min-height: 100vh;
+
+  color: azure;
+  
+  padding: 50px;
+}
+.divv{
+display: flex;
+flex-wrap: wrap;
+}
+.navText{
+  justify-content: space-between !important;
+  margin-right: 30px;
+  
+}
+#nav{
+  display: flex;
+}
